@@ -1,0 +1,22 @@
+README
+As the final project for the fundamentals of eXtended Reality course, the escape room definitely helped us to have a deeper understanding with implement games in Unity with a VR headset.
+
+Team Members
+Wenting BAI, Jaoiher Boulila
+
+Introduction
+This VR Escape Room is built with Unity. The player is required to perform a series of tasks in order to win the game of adventure in a mysterious apartment. The player will receive hints that me and my teammate carefully planted in the game. This game aims to provide players with immersive environment and interactive experience.
+
+Implementation Process
+In this week of implementing the escape room project. We first divided this big project into smaller tasks. We separated the tasks as follows:
+1.Place the models we need in Unity and add components to it according to the tasks that need to be executed in the game, such as colliders, rigid body or scripts etc.
+2.Set up the time manager in the game which will effect the initial countdown as well as the display of the light. Add different audio to it accordingly.
+3.Write scripts for different GameObjects with functions that will fulfil the the need for the main game logic.
+4.Implement the overall game logic.
+5.Write the code for basic movement with VR controller as the input of the game logic.
+
+Game Features
+-  Fully immersive VR experience
+-  Different VR controller interactive movements such as point, pick up and grab etc.
+-  3D effects and realistic visual effect
+-  Different types of puzzles and hints.
