@@ -1,6 +1,6 @@
 README
 
-NOTE: This version EscapeRoomFinal doesn't have a build in the field BUILD. It needs to be builded. The first version "Escape Room" has a build. 
+NOTE: This version EscapeRoomFinal doesn't have a build in the field BUILD. It needs to be builded. The first version "EscapeRoom" has a build. 
 This latest version has one additional task to complete in the escape room (Living Room) compared to the first version. 
 Both versions work perfectly. You can move around, complete the tasks, and ultimately finish the game, all accompanied by music and background lighting.
 
@@ -30,7 +30,7 @@ Game Features
 Tasks Escape Room:
 Living Room:
 - Turn on the lights
-- Place the cup in the sink
+- Place the cup in the sink (NOT PRESENT IN THE FIRST VERSION EscapeRoom)
 - Turn on the TV
 - Turn on the microwave
 -> Bedroom door opens
