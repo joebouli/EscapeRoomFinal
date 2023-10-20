@@ -1,4 +1,10 @@
 README
+
+NOTE: This version EscapeRoomFinal doesn't have a build in the field BUILD. It needs to be builded. The first version "Escape Room" has a build. 
+This latest version has one additional task to complete in the escape room (Living Room) compared to the first version. 
+Both versions work perfectly. You can move around, complete the tasks, and ultimately finish the game, all accompanied by music and background lighting.
+
+
 As the final project for the fundamentals of eXtended Reality course, the escape room definitely helped us to have a deeper understanding with implement games in Unity with a VR headset.
 
 Team Members
@@ -20,3 +26,22 @@ Game Features
 -  Different VR controller interactive movements such as point, pick up and grab etc.
 -  3D effects and realistic visual effect
 -  Different types of puzzles and hints.
+
+Tasks Escape Room:
+Living Room:
+- Turn on the lights
+- Place the cup in the sink
+- Turn on the TV
+- Turn on the microwave
+-> Bedroom door opens
+Bedroom:
+- Turn on the lights
+- Close the bedroom door
+-> Bathroom door opens
+Bathroom:
+- Enter the pin
+- Enter the pin to exit
+-> Apartment door opens
+-> QUIT BUTTON (APPLICATION)
+
+
