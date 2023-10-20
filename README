@@ -39,7 +39,7 @@ Bedroom:
 - Close the bedroom door
 -> Bathroom door opens
 Bathroom:
-- Enter the pin
+- pin show
 - Enter the pin to exit
 -> Apartment door opens
 -> QUIT BUTTON (APPLICATION)
